@@ -1,0 +1,19 @@
+.container{
+    margin: auto;
+    max-width: 500px;
+    background-color:black;
+    padding: auto;
+    color: white;
+}
+textarea{
+    width: 99%;
+    background-color:black;
+    color: white;
+}
+.counter{
+    display: flex;
+    justify-content: space-between;
+}
+h1{
+    text-align: center;
+}
